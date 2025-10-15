@@ -1,6 +1,6 @@
 {
   "theme.SearchBar.label": "بحث",
-  "theme.SearchBar.seeAll": "مشاهدة جميع {count} نتائج",
+  "theme.SearchBar.seeAll": "مُشـاهدة جميع {count} النتائج",
   "theme.SearchModal.askAiScreen.afterToolCallText": "Searched for",
   "theme.SearchModal.askAiScreen.copyButtonCopiedText": "Copied!",
   "theme.SearchModal.askAiScreen.copyButtonText": "Copy",
@@ -51,10 +51,10 @@
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": "Save this search",
   "theme.SearchPage.algoliaLabel": "مدعوم من Algolia",
   "theme.SearchPage.documentsFound.plurals": "تم العثور على مستند واحد|تم العثور على {count} مستندات",
-  "theme.SearchPage.emptyResultsTitle": "ابحث في الوثائق",
+  "theme.SearchPage.emptyResultsTitle": "إبحث في الوثائق",
   "theme.SearchPage.existingResultsTitle": "نتائج البحث عن \"{query}\"",
   "theme.SearchPage.fetchingNewResults": "جلب نتائج جديدة ...",
   "theme.SearchPage.inputLabel": "بحث",
-  "theme.SearchPage.inputPlaceholder": "اكتب ما تبحث عنه هنا",
-  "theme.SearchPage.noResultsText": "لم يتم العثور على نتائج"
+  "theme.SearchPage.inputPlaceholder": "أُكتب ما تبحث عنه هنا",
+  "theme.SearchPage.noResultsText": "لم يتم العثور على أي نتائج"
 }
